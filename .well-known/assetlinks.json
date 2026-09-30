@@ -5,6 +5,7 @@
       "namespace": "android_app",
       "package_name": "io.github.ivanrs79.game2048",
       "sha256_cert_fingerprints": [
+        "AE:30:10:7D:D9:1E:CD:17:D4:B7:03:D3:52:96:6C:79:3B:FE:D0:04:98:86:7E:48:A5:94:5E:BB:06:5A:1E:6D",
         "91:C2:FF:85:1C:DE:28:6F:E9:9E:BB:9E:8E:7C:9F:D3:FF:74:E1:D9:B5:AF:EA:8D:E6:C4:0C:97:2C:30:DE:09"
       ]
     }
